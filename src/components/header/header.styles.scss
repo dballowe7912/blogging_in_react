@@ -1,0 +1,14 @@
+.header {
+
+    & .title {
+        text-align: center;
+        font-family: 'Fontdiner Swanky', cursive;
+        font-size: 3em;
+    }
+
+    & .summary {
+        font-size: 1.5em;
+        margin: 30px;
+    }
+}
+
